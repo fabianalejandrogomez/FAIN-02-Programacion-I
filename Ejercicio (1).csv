@@ -1,0 +1,21 @@
+codigo;nombre;edad;fecha_ingreso;tarjeta;monto;operacion;horacompra;horadevolucion;localidad;provincia;direccion
+C1246;Carlos Rios;34;30 de abril de 1989;4577-3385-4438-5047;$ 675 ;compra;2321;2321;Buenos Aires;Buenos Aires;Av Directorio 714 1er piso CP1424
+C1251;Carlos Rios;34;30 de abril de 1989;4812-3537-8452-6996;$ 232 ;compra;1023;2212;Buenos Aires;Buenos Aires;Av Directorio 714 1er piso CP1424
+C1252;Carlos Rios;34;30 de abril de 1989;4079-7788-4969-7649;$ 223 ;venta;1123;2135;Buenos Aires;Buenos Aires;Av Directorio 714 1er piso CP1424
+C1250;Carlos Rios;34;30 de abril de 1989;sin tarjeta;$ 23 ;venta;1134;2111;Buenos Aires;Buenos Aires;Av Directorio 714 1er piso CP1424
+C1236;Carlos Rios;34;30 de abril de 1989;4258-1521-8640-2679;$ 343 ;compra;1234;2042;Buenos Aires;Buenos Aires;Av Directorio 714 1er piso CP1424
+C1234;Carlos Rios;34;30 de abril de 1989;4715-6406-8102-6494;$ 945 ;compra;1345;2020;Buenos Aires;Buenos Aires;Av Directorio 714 1er piso CP1424
+C1233;Carlos Rios;34;30 de abril de 1989;sin tarjeta;$ 345 ;venta;1432;1943;Buenos Aires;Buenos Aires;Av Directorio 714 1er piso CP1424
+C1238;Jorge Alimbertucchi;45;23 de agosto de 2011;4769-5070-3483-8349;$ 242 ;compra;1445;1937;San Clemente;Mendoza;Los Incas 1234 CP1234
+C1239;Jorge Alimbertucchi;45;23 de agosto de 2011;4347-7056-6487-7794;$ 223 ;venta;1455;1757;San Clemente;Mendoza;Los Incas 1234 CP1234
+C1237;Jorge Alimbertucchi;45;23 de agosto de 2011;sin tarjeta;$ 565 ;venta;1622;1732;San Clemente;Mendoza;Los Incas 1234 CP1234
+C1240;Jorge Alimbertucchi;45;23 de agosto de 2011;4564-2847-5531-3727;$ 224 ;compra;1722;1722;San Clemente;Mendoza;Los Incas 1234 CP1234
+C1244;Leopoldo Abelardo;54;2 de enero de 2020;4184-7572-4810-7906;$ 767 ;compra;1732;1622;Chascomus;Buenos Aires;Presidente Peron 1234 CP 2322
+C1242;Leopoldo Abelardo;54;2 de enero de 2020;sin tarjeta;$ 456 ;venta;1757;1455;Chascomus;Buenos Aires;Presidente Peron 1234 CP 2322
+C1243;Leopoldo Abelardo;54;2 de enero de 2020;4083-5901-8393-6466;$ 566 ;compra;1937;1445;Chascomus;Buenos Aires;Presidente Peron 1234 CP 2322
+C1241;Leopoldo Abelardo;54;2 de enero de 2020;4786-4174-2531-6921;$ 655 ;venta;1943;1432;Chascomus;Buenos Aires;Presidente Peron 1234 CP 2322
+C1245;Leopoldo Abelardo;54;2 de enero de 2020;sin tarjeta;$ 22 ;venta;2020;1345;Chascomus;Buenos Aires;Presidente Peron 1234 CP 2322
+C1247;Rosa Esperanza;67;30 de junio de 2003;4069-4314-3661-1835;$ 453 ;compra;2042;1234;San Luis;San Luis;Calle los Alamos 4343 CP 1135
+C1249;Rosa Esperanza;67;30 de junio de 2003;4634-4350-2145-3264;$ 553 ;venta;2111;1134;San Luis;San Luis;Calle los Alamos 4343 CP 1135
+C1248;Rosa Esperanza;67;30 de junio de 2003;sin tarjeta;$ 444 ;compra;2135;1123;San Luis;San Luis;Calle los Alamos 4343 CP 1135
+C1235;Rosa Esperanza;67;30 de junio de 2003;4788-6043-7449-7711;$ 456 ;compra;2212;1023;San Luis;San Luis;Calle los Alamos 4343 CP 1135
